@@ -1,0 +1,18 @@
+{
+  "name": "liveby-schools",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "next": "9.5.3",
+    "pg": "^8.3.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-leaflet": "^2.7.0"
+  }
+}
